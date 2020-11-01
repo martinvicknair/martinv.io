@@ -9,7 +9,7 @@ published: true
 post_date: 2020-10-31 20:36:01
 ---
 <!-- wp:list -->
-<ul><li><a data-type="URL" data-id="https://linkedin.com/in/martinvicknair" href="https://linkedin.com/in/martinvicknair">linkedin | personal</a> </li><li><a href="https://github.com/martinvicknair">github | coding repos</a> </li><li><a href="https://summerfoodrocks.org">summerfoodrocks.org | site-finder for USDA SFSP program</a> </li><li><a href="https://realde14.net">realde14.net | tourism site for Real de Catorce, SLP, Mexico</a> </li><li><a href="https://tvtanks.com">tvtanks.com | hobby site about multimedia fish tanks made from vintage tv's</a> </li></ul>
+<ul><li><a type="URL" id="https://linkedin.com/in/martinvicknair" href="https://linkedin.com/in/martinvicknair">linkedin | personal</a> </li><li><a href="https://github.com/martinvicknair">github | coding repos</a> </li><li><a href="https://summerfoodrocks.org">summerfoodrocks.org | site-finder for USDA SFSP program</a> </li><li>realde14.net | tourism site for Real de Catorce, SLP, Mexico </li><li>tvtanks.com | hobby site about multimedia fish tanks made from vintage tv's </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
